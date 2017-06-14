@@ -69,7 +69,7 @@ class GoogleImageSearchApp extends React.Component {
                   </div>
                   <div className="image--expand"> 
                     <a href={`#close-jump-${index}`} className="expand__close" onClick={this.props.collapseInfo}></a>
-                      <img className="image--large" src={item.link} style={{width: item.image.width, height: item.image.height}} /> 
+                      <img className="image--large" src={item.link} style={{width: "400px", height: "400px"}} /> 
                   </div>
                 </article>
             )
