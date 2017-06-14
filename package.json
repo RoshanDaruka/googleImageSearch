@@ -4,10 +4,10 @@
   "description": "Google Image Search",
   "keywords": ["Image Search"],
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://RoshanDaruka.github.io/googleImageSearch",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RoshanDaruka/ImageSerch"
+    "url": "https://github.com/RoshanDaruka/googleImageSearch"
   },
   "scripts": {
     "start": "webpack-dev-server --inline --hot --history-api-fallback --host localhost --port 8010",
